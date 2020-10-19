@@ -1344,7 +1344,7 @@ TCP可以看成是一种字节流，它会处理IP层或以下的层的丢包、
 
 在了解TCP连接之前先来了解一下TCP报文的头部结构。
 
-![TCPHeader.png](assets/TCP头)
+![TCPHeader.png](assets/TCP头.png)
 
 上图中有几个字段需要重点介绍下：
 
